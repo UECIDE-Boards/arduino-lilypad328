@@ -1,0 +1,23 @@
+Source: arduino-lilypad328
+Section: boards
+XBSC-Family: avr
+Priority: optional
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: arduino-lilypad328
+Section: boards
+Architecture: all
+XBSC-Group: Arduino
+Depends: arduino
+Description: LilyPad Arduino w/ ATmega328
+ The LilyPad Arduino is a microcontroller board designed for wearables
+ and e-textiles. It can be sewn to fabric and similarly mounted power
+ supplies, sensors and actuators with conductive thread. The board is
+ based on the ATmega238V (the low-power version of the ATmega328). The
+ LilyPad Arduino was designed and developed by Leah Buechley and
+ SparkFun Electronics.
+
+
+
