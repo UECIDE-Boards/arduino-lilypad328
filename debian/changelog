@@ -1,12 +1,6 @@
-arduino-lilypad328 (1.0.1) uecide; urgency=low
-
-  * Fixed install location
-
- -- Matt Jenkins <matt@majenko.co.uk>  Sat, 31 Jan 2015 21:31:45 +0000
-
 arduino-lilypad328 (1.0.0) uecide; urgency=low
 
-  * Initial Release.
+  * Initial Import
 
- -- Matt Jenkins <matt@majenko.co.uk>  Sat, 31 Jan 2015 21:00:45 +0000
+ -- Matt Jenkins <matt@majenko.co.uk>  Tue, 25 Aug 2015 23:08:46 +0100
 

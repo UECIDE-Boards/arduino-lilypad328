@@ -10,6 +10,7 @@ Package: arduino-lilypad328
 Section: boards
 Architecture: all
 XBSC-Group: Arduino
+XBSC-Subgroup: Lilypad
 Depends: arduino
 Description: LilyPad Arduino w/ ATmega328
  The LilyPad Arduino is a microcontroller board designed for wearables
